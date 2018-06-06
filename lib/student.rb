@@ -6,7 +6,7 @@ class Student
   end
 
   def pick_me
-    puts "Pick me!"
+    "Pick me!"
   end
 
   
